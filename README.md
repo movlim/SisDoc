@@ -1,8 +1,5 @@
 # SisDoc
-SisDoc
-Sistema de trámite documentario.
-Universidad Tecnológica del Perú - UTP
-Integrantes:
+Sistema de trámite documentario
 - Borda, Antonio
 - Silva, Juan Carlos
 - Solis, Jorge
